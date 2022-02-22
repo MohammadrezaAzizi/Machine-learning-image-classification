@@ -12,6 +12,7 @@ A binary classification, to test some of machine learning models to classify cat
 
 # Steps
 
+
 ## Step1 
 First renamed pictures (two classes were moved to separate folders before renaming) to the following format : "class name" + "_" + "name of the picture"
 
