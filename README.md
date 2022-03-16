@@ -1,8 +1,3 @@
-# We are Chashmyar
-Chashmyar is a startup that develops artificial intelligence healthcare services for eye.
-#### Our website: www.chashmyar.ir
-
-
 # This notebook includes
   #Image_classification_ML #Binary_image_classification #ML_image_classification #XGBoost #Random_forest #Decision_Tree #KNN 
   #K-fold_cross_validation #Cross_validation #SVM #support_vector_machine
@@ -42,6 +37,6 @@ Any suggestions or questions are welcome! Good Luck!
 
 ## Contact me via:
   ### Linkedin: https://www.linkedin.com/in/mohammadreza-azizi-lnkdin/
-  ### e-mail: mohammadreza.azizi@modares.ac.ir
+  ### e-mail: mo.reza.azizi.1997@gmail.com
   
   
